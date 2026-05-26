@@ -1,0 +1,13 @@
+{
+  "title": "Sport Fans Platform",
+  "description": "Sport fans Visualization and platform",
+  "displayName": "sports-hack",
+  "videoUrl": "https://www.loom.com/share/...",
+  "repoUrl": "https://github.com/DivyanshiDetroja/sports-hack",
+  "deployedUrl": "https://DivyanshiDetroja.vercel.app",
+  "tags": ["fans", "live-stats", "next.js"],
+  "collaborators": [
+    { "displayName": "Divyanshi Detroja", "githubHandle": "DivyanshiDetroja" },
+    { "displayName": "Jay Qi", "githubHandle": "wanggiya" }
+  ]
+}
